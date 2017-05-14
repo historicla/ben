@@ -15,6 +15,12 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
+	"\/baldwin-hills.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/baldwin-hills.html",
+		"oF": 0
+		},
 	"\/blog-single.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -185,6 +191,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/futurastd-bold.woff2",
+		"oF": 0
+		},
+	"\/hancock-park.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/hancock-park.html",
 		"oF": 0
 		},
 	"\/images\/about\/ben-award.jpg": {
@@ -398,6 +410,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/neighborhoods\/1-main\/homeicon.jpg": {
+		"ft": 16384,
+		"iS": 11285,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/1-main\/homeicon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/neighborhoods\/1-main\/ladera-heights.jpg": {
 		"ft": 16384,
 		"iS": 401268,
@@ -423,6 +445,16 @@
 		"iS": 328991,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/marvista-culver.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/1-main\/meatandeaticon.jpg": {
+		"ft": 16384,
+		"iS": 24375,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/1-main\/meatandeaticon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -458,6 +490,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/neighborhoods\/1-main\/schoolicon.png": {
+		"ft": 32768,
+		"iS": 1302,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/1-main\/schoolicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/neighborhoods\/1-main\/venice.jpg": {
 		"ft": 16384,
 		"iS": 350201,
@@ -483,6 +526,70 @@
 		"iS": 388169,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/weho.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/1.jpg": {
+		"ft": 16384,
+		"iS": 146395,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/1.png": {
+		"ft": 32768,
+		"iS": 614295,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/2.png": {
+		"ft": 32768,
+		"iS": 606547,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/3.png": {
+		"ft": 32768,
+		"iS": 358843,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/4.png": {
+		"ft": 32768,
+		"iS": 1364239,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/neighborhoods\/baldwin-hills\/5.jpeg": {
+		"ft": 16384,
+		"iS": 87775,
+		"oA": 0,
+		"oAP": "\/images\/neighborhoods\/baldwin-hills\/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -748,6 +855,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/selling-your-home.html",
+		"oF": 0
+		},
+	"\/starter.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/starter.html",
 		"oF": 0
 		},
 	"\/videos.html": {
