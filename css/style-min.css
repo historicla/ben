@@ -2266,3 +2266,6 @@ footer:before {
   margin: 0 auto;
   margin-top: 20px;
   border-color: white; }
+
+.blog-img-1 {
+  max-width: 50%; }
