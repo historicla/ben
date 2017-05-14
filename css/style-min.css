@@ -2246,3 +2246,23 @@ footer:before {
 
 .mls {
   margin-top: 40px; }
+
+.pad-top {
+  padding-top: 20px; }
+
+.h3-special {
+  font-size: 2em;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-bottom: 20px; }
+
+.h4-special {
+  font-size: 1.5em;
+  padding: 10px;
+  color: #81951d; }
+
+.sm-line {
+  max-width: 45%;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-color: white; }
