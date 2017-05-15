@@ -581,6 +581,7 @@ header {
 
 #site-logo {
   max-width: 200px;
+  margin-left: -15px;
 }
 
 
@@ -1738,6 +1739,12 @@ article {
   padding-right: 80px;
 }
 
+@media screen and (max-width: 480px) {
+  .fullwidth-slider-holder {
+    padding-right: 0;
+  }
+}
+
 .fullwidth-slider-holder .customNavigation {
   position: absolute;
   top: 50%;
@@ -1748,6 +1755,12 @@ article {
   padding: 10px 0;
   border-top: 2px solid #ccc;
   border-bottom: 2px solid #ccc;
+}
+
+@media screen and (max-width: 480px) {
+  .fullwidth-slider-holder .customNavigation {
+    display: none;
+  }
 }
 
 .fullwidth-slider-holder .customNavigation a {
@@ -2851,4 +2864,12 @@ footer:before {
 
 .blog-img-1 {
   max-width: 50%;
+}
+
+.h4-blog {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 5px;
+  font-weight: 600;
+  color: #68771b;
 }

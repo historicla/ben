@@ -57,6 +57,12 @@
 		"oAP": "\/blog4.html",
 		"oF": 0
 		},
+	"\/blog5.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/blog5.html",
+		"oF": 0
+		},
 	"\/contact.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -314,6 +320,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/blog\/12.jpg": {
+		"ft": 16384,
+		"iS": 330805,
+		"oA": 0,
+		"oAP": "\/images\/blog\/12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/blog\/blog-1\/1.jpeg": {
 		"ft": 16384,
 		"iS": 733861,
@@ -326,7 +342,7 @@
 		},
 	"\/images\/blog\/blog-2\/1.jpg": {
 		"ft": 16384,
-		"iS": 638047,
+		"iS": 218652,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/1.jpg",
 		"oF": 0,
@@ -336,7 +352,7 @@
 		},
 	"\/images\/blog\/blog-2\/10.jpg": {
 		"ft": 16384,
-		"iS": 954581,
+		"iS": 195581,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/10.jpg",
 		"oF": 0,
@@ -344,19 +360,9 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/blog\/blog-2\/11.jpg": {
-		"ft": 16384,
-		"iS": 604811,
-		"oA": 0,
-		"oAP": "\/images\/blog\/blog-2\/11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/blog\/blog-2\/2.jpg": {
 		"ft": 16384,
-		"iS": 443779,
+		"iS": 154930,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/2.jpg",
 		"oF": 0,
@@ -366,7 +372,7 @@
 		},
 	"\/images\/blog\/blog-2\/3.jpg": {
 		"ft": 16384,
-		"iS": 281514,
+		"iS": 87637,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/3.jpg",
 		"oF": 0,
@@ -376,7 +382,7 @@
 		},
 	"\/images\/blog\/blog-2\/4.jpg": {
 		"ft": 16384,
-		"iS": 425882,
+		"iS": 148036,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/4.jpg",
 		"oF": 0,
@@ -384,9 +390,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/blog\/blog-2\/5.jpg": {
+		"ft": 16384,
+		"iS": 118562,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-2\/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/blog\/blog-2\/6.jpg": {
 		"ft": 16384,
-		"iS": 354380,
+		"iS": 175279,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/6.jpg",
 		"oF": 0,
@@ -396,7 +412,7 @@
 		},
 	"\/images\/blog\/blog-2\/7.jpg": {
 		"ft": 16384,
-		"iS": 509183,
+		"iS": 132096,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/7.jpg",
 		"oF": 0,
@@ -406,7 +422,7 @@
 		},
 	"\/images\/blog\/blog-2\/8.jpg": {
 		"ft": 16384,
-		"iS": 393412,
+		"iS": 316890,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/8.jpg",
 		"oF": 0,
@@ -416,7 +432,7 @@
 		},
 	"\/images\/blog\/blog-2\/9.jpg": {
 		"ft": 16384,
-		"iS": 946481,
+		"iS": 302380,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-2\/9.jpg",
 		"oF": 0,
@@ -426,7 +442,7 @@
 		},
 	"\/images\/blog\/blog-3\/1.jpg": {
 		"ft": 16384,
-		"iS": 443253,
+		"iS": 540009,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/1.jpg",
 		"oF": 0,
@@ -436,7 +452,7 @@
 		},
 	"\/images\/blog\/blog-3\/10.jpg": {
 		"ft": 16384,
-		"iS": 218263,
+		"iS": 263089,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/10.jpg",
 		"oF": 0,
@@ -446,7 +462,7 @@
 		},
 	"\/images\/blog\/blog-3\/11.jpg": {
 		"ft": 16384,
-		"iS": 221881,
+		"iS": 287673,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/11.jpg",
 		"oF": 0,
@@ -456,7 +472,7 @@
 		},
 	"\/images\/blog\/blog-3\/12.jpg": {
 		"ft": 16384,
-		"iS": 205933,
+		"iS": 261673,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/12.jpg",
 		"oF": 0,
@@ -466,7 +482,7 @@
 		},
 	"\/images\/blog\/blog-3\/13.jpg": {
 		"ft": 16384,
-		"iS": 231996,
+		"iS": 289444,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/13.jpg",
 		"oF": 0,
@@ -476,7 +492,7 @@
 		},
 	"\/images\/blog\/blog-3\/14.jpg": {
 		"ft": 16384,
-		"iS": 194100,
+		"iS": 236536,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/14.jpg",
 		"oF": 0,
@@ -486,7 +502,7 @@
 		},
 	"\/images\/blog\/blog-3\/15.jpg": {
 		"ft": 16384,
-		"iS": 189988,
+		"iS": 236259,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/15.jpg",
 		"oF": 0,
@@ -496,7 +512,7 @@
 		},
 	"\/images\/blog\/blog-3\/16.jpg": {
 		"ft": 16384,
-		"iS": 199887,
+		"iS": 252937,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/16.jpg",
 		"oF": 0,
@@ -506,7 +522,7 @@
 		},
 	"\/images\/blog\/blog-3\/17.jpg": {
 		"ft": 16384,
-		"iS": 234746,
+		"iS": 289456,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/17.jpg",
 		"oF": 0,
@@ -516,7 +532,7 @@
 		},
 	"\/images\/blog\/blog-3\/18.jpg": {
 		"ft": 16384,
-		"iS": 228176,
+		"iS": 288410,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/18.jpg",
 		"oF": 0,
@@ -526,7 +542,7 @@
 		},
 	"\/images\/blog\/blog-3\/19.jpg": {
 		"ft": 16384,
-		"iS": 203480,
+		"iS": 267320,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/19.jpg",
 		"oF": 0,
@@ -536,7 +552,7 @@
 		},
 	"\/images\/blog\/blog-3\/20.jpg": {
 		"ft": 16384,
-		"iS": 361975,
+		"iS": 427251,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/20.jpg",
 		"oF": 0,
@@ -546,7 +562,7 @@
 		},
 	"\/images\/blog\/blog-3\/21.jpg": {
 		"ft": 16384,
-		"iS": 367508,
+		"iS": 419945,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/21.jpg",
 		"oF": 0,
@@ -556,7 +572,7 @@
 		},
 	"\/images\/blog\/blog-3\/22.jpg": {
 		"ft": 16384,
-		"iS": 506645,
+		"iS": 577621,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/22.jpg",
 		"oF": 0,
@@ -566,7 +582,7 @@
 		},
 	"\/images\/blog\/blog-3\/23.jpg": {
 		"ft": 16384,
-		"iS": 499520,
+		"iS": 555136,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/23.jpg",
 		"oF": 0,
@@ -576,7 +592,7 @@
 		},
 	"\/images\/blog\/blog-3\/24.jpg": {
 		"ft": 16384,
-		"iS": 473434,
+		"iS": 526793,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/24.jpg",
 		"oF": 0,
@@ -586,7 +602,7 @@
 		},
 	"\/images\/blog\/blog-3\/3.jpg": {
 		"ft": 16384,
-		"iS": 176016,
+		"iS": 193320,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/3.jpg",
 		"oF": 0,
@@ -596,7 +612,7 @@
 		},
 	"\/images\/blog\/blog-3\/4.jpg": {
 		"ft": 16384,
-		"iS": 217964,
+		"iS": 233771,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/4.jpg",
 		"oF": 0,
@@ -606,7 +622,7 @@
 		},
 	"\/images\/blog\/blog-3\/5.jpg": {
 		"ft": 16384,
-		"iS": 249081,
+		"iS": 313185,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/5.jpg",
 		"oF": 0,
@@ -616,7 +632,7 @@
 		},
 	"\/images\/blog\/blog-3\/6.jpg": {
 		"ft": 16384,
-		"iS": 249482,
+		"iS": 314792,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/6.jpg",
 		"oF": 0,
@@ -626,7 +642,7 @@
 		},
 	"\/images\/blog\/blog-3\/7.jpg": {
 		"ft": 16384,
-		"iS": 300571,
+		"iS": 324112,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/7.jpg",
 		"oF": 0,
@@ -636,7 +652,7 @@
 		},
 	"\/images\/blog\/blog-3\/8.jpg": {
 		"ft": 16384,
-		"iS": 283580,
+		"iS": 350197,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/8.jpg",
 		"oF": 0,
@@ -646,7 +662,7 @@
 		},
 	"\/images\/blog\/blog-3\/9.jpg": {
 		"ft": 16384,
-		"iS": 269629,
+		"iS": 336550,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-3\/9.jpg",
 		"oF": 0,
@@ -656,7 +672,7 @@
 		},
 	"\/images\/blog\/blog-4\/1.jpg": {
 		"ft": 16384,
-		"iS": 304911,
+		"iS": 328335,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/1.jpg",
 		"oF": 0,
@@ -666,7 +682,7 @@
 		},
 	"\/images\/blog\/blog-4\/10.jpg": {
 		"ft": 16384,
-		"iS": 233197,
+		"iS": 284342,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/10.jpg",
 		"oF": 0,
@@ -676,7 +692,7 @@
 		},
 	"\/images\/blog\/blog-4\/11.jpg": {
 		"ft": 16384,
-		"iS": 246906,
+		"iS": 254391,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/11.jpg",
 		"oF": 0,
@@ -686,7 +702,7 @@
 		},
 	"\/images\/blog\/blog-4\/12.jpg": {
 		"ft": 16384,
-		"iS": 311115,
+		"iS": 330805,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/12.jpg",
 		"oF": 0,
@@ -694,9 +710,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/blog\/blog-4\/13.jpg": {
+		"ft": 16384,
+		"iS": 135351,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-4\/13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/blog\/blog-4\/14.jpg": {
 		"ft": 16384,
-		"iS": 263796,
+		"iS": 285502,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/14.jpg",
 		"oF": 0,
@@ -706,7 +732,7 @@
 		},
 	"\/images\/blog\/blog-4\/15.jpg": {
 		"ft": 16384,
-		"iS": 234644,
+		"iS": 253521,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/15.jpg",
 		"oF": 0,
@@ -714,9 +740,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/blog\/blog-4\/2.jpg": {
+		"ft": 16384,
+		"iS": 93709,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-4\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/blog\/blog-4\/3.jpg": {
 		"ft": 16384,
-		"iS": 159454,
+		"iS": 162897,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/3.jpg",
 		"oF": 0,
@@ -726,7 +762,7 @@
 		},
 	"\/images\/blog\/blog-4\/4.jpg": {
 		"ft": 16384,
-		"iS": 193818,
+		"iS": 205161,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/4.jpg",
 		"oF": 0,
@@ -736,7 +772,7 @@
 		},
 	"\/images\/blog\/blog-4\/5.jpg": {
 		"ft": 16384,
-		"iS": 156943,
+		"iS": 168322,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/5.jpg",
 		"oF": 0,
@@ -746,7 +782,7 @@
 		},
 	"\/images\/blog\/blog-4\/6.jpg": {
 		"ft": 16384,
-		"iS": 220078,
+		"iS": 237755,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/6.jpg",
 		"oF": 0,
@@ -756,7 +792,7 @@
 		},
 	"\/images\/blog\/blog-4\/7.jpg": {
 		"ft": 16384,
-		"iS": 240748,
+		"iS": 247436,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/7.jpg",
 		"oF": 0,
@@ -764,11 +800,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/blog\/blog-4\/8.jpg": {
+		"ft": 16384,
+		"iS": 136763,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-4\/8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/blog\/blog-4\/9.jpg": {
 		"ft": 16384,
-		"iS": 396323,
+		"iS": 419422,
 		"oA": 0,
 		"oAP": "\/images\/blog\/blog-4\/9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/blog\/blog-5\/award.jpg": {
+		"ft": 16384,
+		"iS": 495476,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-5\/award.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
