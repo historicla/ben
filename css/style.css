@@ -2873,3 +2873,9 @@ footer:before {
   font-weight: 600;
   color: #68771b;
 }
+
+@media screen and (max-width: 480px) {
+  .h4-blog {
+    font-size: 9px;
+  }
+}
