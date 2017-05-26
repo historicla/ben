@@ -21,12 +21,6 @@
 		"oAP": "\/baldwin-hills.html",
 		"oF": 0
 		},
-	"\/blog-single.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/blog-single.html",
-		"oF": 0
-		},
 	"\/blog.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -114,6 +108,12 @@
 		"oAP": "\/css\/style-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/featured-listings.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/featured-listings.html",
+		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
@@ -1160,7 +1160,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/baldwin-hills.jpg": {
 		"ft": 16384,
-		"iS": 304815,
+		"iS": 123271,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/baldwin-hills.jpg",
 		"oF": 0,
@@ -1170,7 +1170,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/hancock-park.jpg": {
 		"ft": 16384,
-		"iS": 519517,
+		"iS": 217256,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/hancock-park.jpg",
 		"oF": 0,
@@ -1190,7 +1190,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/ladera-heights.jpg": {
 		"ft": 16384,
-		"iS": 401268,
+		"iS": 106895,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/ladera-heights.jpg",
 		"oF": 0,
@@ -1200,7 +1200,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/leimert-park.jpg": {
 		"ft": 16384,
-		"iS": 709854,
+		"iS": 205017,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/leimert-park.jpg",
 		"oF": 0,
@@ -1210,7 +1210,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/marvista-culver.jpg": {
 		"ft": 16384,
-		"iS": 328991,
+		"iS": 288244,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/marvista-culver.jpg",
 		"oF": 0,
@@ -1230,7 +1230,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/mid-city.jpg": {
 		"ft": 16384,
-		"iS": 484966,
+		"iS": 109800,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/mid-city.jpg",
 		"oF": 0,
@@ -1240,7 +1240,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/miracle-mile.jpg": {
 		"ft": 16384,
-		"iS": 145414,
+		"iS": 221712,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/miracle-mile.jpg",
 		"oF": 0,
@@ -1250,7 +1250,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/santa-monica.jpg": {
 		"ft": 16384,
-		"iS": 523119,
+		"iS": 317931,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/santa-monica.jpg",
 		"oF": 0,
@@ -1271,7 +1271,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/venice.jpg": {
 		"ft": 16384,
-		"iS": 350201,
+		"iS": 106473,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/venice.jpg",
 		"oF": 0,
@@ -1281,7 +1281,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/view-park.jpg": {
 		"ft": 16384,
-		"iS": 516758,
+		"iS": 233071,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/view-park.jpg",
 		"oF": 0,
@@ -1291,7 +1291,7 @@
 		},
 	"\/images\/neighborhoods\/1-main\/weho.jpg": {
 		"ft": 16384,
-		"iS": 388169,
+		"iS": 152721,
 		"oA": 0,
 		"oAP": "\/images\/neighborhoods\/1-main\/weho.jpg",
 		"oF": 0,
@@ -2139,12 +2139,6 @@
 		"oAP": "\/miracle-mile.html",
 		"oF": 0
 		},
-	"\/mls-search.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/mls-search.html",
-		"oF": 0
-		},
 	"\/neighborhoods.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -2167,12 +2161,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/selling-your-home.html",
-		"oF": 0
-		},
-	"\/starter.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/starter.html",
 		"oF": 0
 		},
 	"\/venice.html": {
