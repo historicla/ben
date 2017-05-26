@@ -381,6 +381,10 @@ function initDomik() {
     $("#contactform input, #contactform textarea").keyup(function() {
         $("#message").slideUp(1500);
     });
+
+		$(".services-box").on("touchstart", function(event) {
+      window.location.href = $(event.target).attr('href');
+    });
 	// IMPORTANT   INIT YOUR FUNCTIONS HERE ------------------
 
 
