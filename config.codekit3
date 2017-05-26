@@ -346,6 +346,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/blog\/blog-1\/1.png": {
+		"ft": 32768,
+		"iS": 3460657,
+		"oA": 0,
+		"oAP": "\/images\/blog\/blog-1\/1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/blog\/blog-2\/1.jpg": {
 		"ft": 16384,
 		"iS": 218652,
@@ -1126,6 +1137,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/favicon.png": {
+		"ft": 32768,
+		"iS": 12890,
+		"oA": 0,
+		"oAP": "\/images\/favicon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/home\/mob-bg.jpg": {
 		"ft": 16384,
 		"iS": 713392,
@@ -1808,6 +1830,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/og-image.png": {
+		"ft": 32768,
+		"iS": 4513924,
+		"oA": 0,
+		"oAP": "\/images\/og-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/properties\/recently-sold\/1.jpg": {
 		"ft": 16384,
 		"iS": 227325,
@@ -1993,6 +2026,36 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/images\/videos\/seth&matt.jpg": {
+		"ft": 16384,
+		"iS": 269606,
+		"oA": 0,
+		"oAP": "\/images\/videos\/seth&matt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/videos\/stucco1.jpg": {
+		"ft": 16384,
+		"iS": 210913,
+		"oA": 0,
+		"oAP": "\/images\/videos\/stucco1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/videos\/stucco2.jpg": {
+		"ft": 16384,
+		"iS": 331903,
+		"oA": 0,
+		"oAP": "\/images\/videos\/stucco2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/index.html": {

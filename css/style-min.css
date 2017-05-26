@@ -509,7 +509,7 @@ nav li a {
   float: left;
   padding: 10px 22px;
   line-height: 1;
-  font-size: 11px;
+  font-size: 10px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #666;
@@ -1531,7 +1531,6 @@ article {
 
 .inline-gallery {
   float: left;
-  margin-top: 30px;
   margin-bottom: 10px; }
 
 .inline-gallery li {
@@ -2289,3 +2288,7 @@ footer:before {
 @media screen and (max-width: 480px) {
   .h4-blog {
     font-size: 9px; } }
+
+@media screen and (max-width: 480px) {
+  .inline-gallery li {
+    width: 100%; } }
