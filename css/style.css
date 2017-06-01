@@ -2,11 +2,8 @@
 
 /*======================================
 
- [ -Main Stylesheet-
-  Theme: Domik
-  Version: 1.0
-  Last change: 15/04/2015 ]
-  	+++Fonts +++
+
+  +++Fonts +++
 	++++General Styles++++
 	++++Typography ++++
 	++++Page preload ++++
@@ -559,7 +556,7 @@ header {
   top: 0;
   left: 0;
   z-index: 20;
-  width: 100%;
+  width: 70%%;
   background: #fff;
   -webkit-transform: translate3d(0, 0, 0);
 }
@@ -567,7 +564,7 @@ header {
 .header-inner {
   margin: 0 auto;
   position: relative;
-  max-width: 100%;
+  max-width: 1024px;;
   width: 92%;
   padding-right: 90px;
 }
