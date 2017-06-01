@@ -250,7 +250,7 @@ function initDomik() {
     $(window).load(function() {
         n();
     });
-	$('.slide-title a , .carousel-link-holder').on('click',function(){
+	$('.slide-title a , .box-item a.ajax , .carousel-link-holder').on('click',function(){
 		$('nav a').removeClass('act-link');
 		$('.pp').addClass('act-link');
 	});
